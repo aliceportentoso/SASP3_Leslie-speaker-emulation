@@ -2,8 +2,6 @@
 ## Sound Analysis, Synthesis and Processing 2023 - Homework 3
 # Leslie speaker emulation
 <br>
-
-<br>
  The project is the implementation of a computationally efficient Leslie speaker emulation. The Leslie speaker is a famous amplifier and speaker for electronic instruments.  It is based on a rotating baffle chamber (”drum”) in front of the bass speaker and a rotating system of  horns in front of the treble driver, which are responsible for the characteristic sound of this device. The  musician controls the rotation speed of the drum and horns via an external switch or pedal that alternates between a slow and fast speed setting called chorale and tremolo. As for how it works, the audio signal is
  amplified and then sent to a crossover network that splits it into two separate frequency bands (bass and
  treble), and each output is sent to a speaker. A single woofer is used for bass and a single compression
