@@ -1,10 +1,5 @@
-% SSSP Homework 1
-% students and students code:
-% Chiara Lunghi     233195
-% Alice Portentoso  232985
-
 function [y,y_lpf,y_hpf,y_hp_sdf] = leslie(x, Fs, freq)
-%Leslie Speaker Emulation
+% Leslie Speaker Emulation
 %
 % J. Pekonen et al. Computationally Efficient Hammond Organ Synthesis
 % in Proc. of the 14th International Conference on Digital Audio
